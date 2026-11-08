@@ -1,0 +1,2 @@
+This application bundles three.js (https://github.com/mrdoob/three.js), version 0.180.0.
+three.js is licensed under the MIT License. The full text is in three.MIT.txt.
